@@ -26,7 +26,7 @@ input.onButtonPressed(Button.A, function () {
 })
 input.onButtonPressed(Button.AB, function () {
     basic.clearScreen()
-    basic.showString("EPIC")
+    basic.showString("EASTER EGG")
     basic.showLeds(`
         . . . . .
         . # . # .
